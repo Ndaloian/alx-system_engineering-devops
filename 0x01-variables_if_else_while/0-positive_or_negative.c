@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- *Check whether number stored is negative or positive
+ * Check if number n is either positive or negative
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -23,7 +23,7 @@ int main(void)
 	}
 	else
 	{
-		printf("%d is negative\n", n)
+		printf("%d is negative\n", n);
 	}
 	return (0);
 }
